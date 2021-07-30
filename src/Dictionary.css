@@ -1,0 +1,25 @@
+h2 {
+  font-size: 25px;
+  font-weight: 200;
+}
+
+.search-button {
+  border: 1px solid;
+  border-radius: 0px;
+  font-weight: 300;
+  height: 32px;
+  width: 70px;
+}
+
+.search-input {
+  border: 1px solid;
+  border-radius: 0px;
+  height: 32px;
+  margin: 10px;
+  margin-left: 0;
+  width: 350px;
+}
+
+.word {
+  font-weight: 300;
+}

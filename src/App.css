@@ -1,9 +1,11 @@
 .App footer {
+  font-weight: 200;
   margin: 20px;
+  margin-left: 0;
 }
 
 .App-header {
   font-size: 40px;
-  font-weight: 500;
-  margin: 15px 30px;
+  font-weight: 300;
+  margin-top: 15px;
 }

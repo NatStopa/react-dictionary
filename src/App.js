@@ -9,7 +9,16 @@ function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className>Coded by NatStopa</footer>
+        <footer className>
+          Coded by NatStopa, open-sourced on{" "}
+          <a
+            href="https://github.com/NatStopa/react-dictionary"
+            target="_blank"
+            rel="noreferrer"
+          >
+            GitHub
+          </a>
+        </footer>
       </div>
     </div>
   );
