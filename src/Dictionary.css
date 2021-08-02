@@ -3,23 +3,50 @@ h2 {
   font-weight: 200;
 }
 
-.search-button {
-  border: 1px solid;
-  border-radius: 0px;
+.definition {
+  font-size: 22px;
+  font-weight: 200;
+}
+
+.part-of-speech {
+  color: #50c9c7;
+  font-size: 23px;
   font-weight: 300;
+  margin-right: 10px;
+}
+
+.search-button {
+  background-color: #50c9c7;
+  border: 1px solid transparent;
+  border-radius: 2px;
+  color: #ffffff;
+  font-weight: 500;
   height: 32px;
   width: 70px;
 }
 
+.search-button:hover {
+  box-shadow: 1px 1px 7px #50c9c7;
+  transition: all 1s ease-in-out;
+}
+
 .search-input {
-  border: 1px solid;
-  border-radius: 0px;
+  border: 1px solid #313131;
+  border-radius: 2px;
+  color: #313131;
+  font-weight: 200;
   height: 32px;
   margin: 10px;
   margin-left: 0;
   width: 350px;
 }
 
+.search-input:hover {
+  box-shadow: 1px 1px 5px #50c9c7;
+  transition: all 1s ease-in-out;
+}
+
 .word {
-  font-weight: 300;
+  font-size: 30px;
+  font-weight: 200;
 }
