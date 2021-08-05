@@ -8,6 +8,11 @@ h2 {
   font-weight: 200;
 }
 
+.each-synonym {
+  font-size: 22px;
+  font-weight: 200;
+}
+
 .part-of-speech {
   color: #50c9c7;
   font-size: 23px;
@@ -44,6 +49,13 @@ h2 {
 .search-input:hover {
   box-shadow: 1px 1px 5px #50c9c7;
   transition: all 1s ease-in-out;
+}
+
+.similar {
+  color: #50c9c7;
+  font-size: 23px;
+  font-weight: 200;
+  margin-right: 5px;
 }
 
 .word {
