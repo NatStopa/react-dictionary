@@ -37,16 +37,21 @@ h2 {
   font-weight: 200;
 }
 
-.Phonetics {
-  margin-top: 5px;
-  margin-bottom: 15px;
-}
-
 .part-of-speech {
   color: #50c9c7;
   font-size: 23px;
   font-weight: 300;
   margin-right: 10px;
+}
+
+.Phonetics {
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+.photo {
+  border-radius: 2px;
+  margin-bottom: 20px;
 }
 
 .search-button {
